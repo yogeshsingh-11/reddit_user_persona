@@ -1,4 +1,4 @@
-# Reddit User Persona Builder (Open‑Source LLM)
+# Reddit User Persona Builder
 
 ## Requirements
 
